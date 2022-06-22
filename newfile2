@@ -1,10 +1,5 @@
-JENKINS administrator password
-24c53e130cde4f69ab5359222107d953
-josegpali
-Time@123
+ngrok http 8080
 
-GITHUB
-josegpaliyath@gmail.com
-9847983513Pali
-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
-token : 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
+Created SNS Notifications and CloudWatch Monitoring.
+•	Preserving Private IPs using Elastic network interface & assigning of elastic IPs
+
